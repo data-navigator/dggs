@@ -1,2 +1,2 @@
-# dggs
-A python implementation of a discrete global grid system.
+# dggs-sandbox
+Repo for testing and exploratory development of a DGGS. 
