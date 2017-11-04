@@ -1,4 +1,4 @@
-name: dggs-sandbox
+name: triangle-addressing
 channels:
 - defaults
 dependencies:
