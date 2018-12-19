@@ -1,2 +1,1 @@
-# dggs-sandbox
-Repo for testing and exploratory development of a DGGS. 
+Triangle Addressing - Jupyter notebook exploring a triangle-grid geometry
